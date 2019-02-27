@@ -17,6 +17,12 @@ The test data should be randomised and realistic so that each time this program 
 
 The generated test file to contain 10000 records and should contain a header row for the columns.
 
+### Areas covered
+
+- File creation
+- CSV handling
+- Optional: package usage
+
 ### Expectations
 
 Your program should:
