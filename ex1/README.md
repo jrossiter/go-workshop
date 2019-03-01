@@ -15,7 +15,7 @@ The test data requires the following fields:
 
 The test data should be randomised and realistic so that each time this program is run a fresh CSV is generated.
 
-The generated test file to contain 10000 records and should contain a header row for the columns.
+The generated test file must contain 10000 records and must contain a header row.
 
 ### Areas covered
 
